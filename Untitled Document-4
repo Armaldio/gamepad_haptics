@@ -1,0 +1,13 @@
+{
+  "gamepad_haptics": {
+    "paid": "yes",
+    "available": "unreleased",
+    "dl-url": "",
+    "screenshots": [
+      {}
+    ],
+    "constructprojectexamples": [
+      {}
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+	"gamepad_haptics": {
+		"name": "Gamepad rumble",
+		"description-short": "Extends default gamepad plugin with haptic support",
+		"description": "description.md",
+		"icon": "icon.png",
+		"cover": "5LBbh7.png",
+		"version": "v1.4",
+		"category": "",
+		"tags": "gamepads, joysticks, vibration, rumble, haptics, nwjs, electron",
+		"paid": "yes",
+		"price-usd": "3",
+		"price-flof": "",
+		"available": "unreleased",
+		"dl-url": "",
+		"alternatestore-url": "https://armaldio.itch.io/gamepad-rumble/purchase",
+		"publisher": [{
+			"name": "armaldio",
+			"eth-address": "0x5173CB34502dB79fb12898d1f0F7bDac88fb4E3C"
+		}],
+		"screenshots": [{}],
+		"constructprojectexamples": [{
+			"examplec2": {
+				"name": "example.capx",
+				"dl-url": "",
+				"screenshots": [{}]
+			},
+			"examplefloflis": {
+				"name": "example.apps",
+				"dl-url": "",
+				"screenshots": [{}]
+			}
+		}]
+	}
+}
